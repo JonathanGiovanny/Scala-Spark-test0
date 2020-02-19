@@ -1,6 +1,6 @@
-name := "Storefront importer"
+name := "SF importer"
 scalaVersion := "2.12.8"
-organization := "com.cadreon.unity"
+organization := "com.jjo.scala"
 
 scalacOptions ++= Seq(
   "-deprecation",
